@@ -1,3 +1,3 @@
-# bootstrap-sample-project-1
+# bootstrap-sample-project-2
 
 Bootstrapの練習用リポジトリです
